@@ -1,0 +1,13 @@
+:root {
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: "Sixtyfour Convergence", sans-serif;
+
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+
+}
